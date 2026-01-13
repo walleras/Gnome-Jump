@@ -135,10 +135,4 @@ cmake -B build -DSFML_DIR="/path/to/SFML/lib/cmake/SFML"
 ### Missing DLLs on Windows
 Ensure SFML DLLs are in the same directory as the executable or in your system PATH.
 
-## License
 
-[Add your license information here]
-
-## Author
-
-[Add your information here]
