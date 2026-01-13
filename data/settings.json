@@ -1,0 +1,14 @@
+{
+  "unlocks": {
+    "lowGravity": false,
+    "highGravity": false,
+    "zen": false,
+    "bouncyOnly": false,
+    "weakOnly": false,
+    "hardMode": false
+  },
+  "masterVol": 100,
+  "musicVol": 100,
+  "sfxVol": 100,
+  "highscore": 0
+}
